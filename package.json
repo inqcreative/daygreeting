@@ -1,0 +1,28 @@
+{
+    "name": "daygreeting",
+    "version": "1.0.0",
+    "description": "Dynamically display the current day of the week.",
+    "main": "dist/daygreeting.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/inqcreative/daygreeting.git"
+    },
+    "keywords": [
+    "javascript",
+    "day",
+    "date",
+    "dynamic"
+  ],
+    "author": "INQ Creative",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/inqcreative/daygreeting/issues"
+    },
+    "homepage": "https://github.com/inqcreative/daygreeting#readme",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    }
+}
