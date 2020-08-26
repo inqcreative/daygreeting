@@ -1,6 +1,6 @@
 {
     "name": "@inqcreative/daygreeting",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Dynamically display the current day of the week.",
     "main": "dist/daygreeting.js",
     "repository": {
@@ -21,8 +21,5 @@
     "bugs": {
         "url": "https://github.com/inqcreative/daygreeting/issues"
     },
-    "homepage": "https://github.com/inqcreative/daygreeting#readme",
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
-    }
+    "homepage": "https://github.com/inqcreative/daygreeting#readme"
 }
