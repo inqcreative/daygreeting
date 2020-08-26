@@ -3,19 +3,16 @@
     "version": "1.0.0",
     "description": "Dynamically display the current day of the week.",
     "main": "dist/daygreeting.js",
-    "scripts": {
-        "test": "npm run unit"
-    },
     "repository": {
         "type": "git",
         "url": "git://github.com/inqcreative/daygreeting.git"
     },
     "keywords": [
-    "javascript",
-    "day",
-    "date",
-    "dynamic"
-  ],
+        "javascript",
+        "day",
+        "date",
+        "dynamic"
+    ],
     "files": [
         "dist"
     ],
