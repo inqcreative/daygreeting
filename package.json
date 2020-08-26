@@ -1,6 +1,6 @@
 {
     "name": "@inqcreative/daygreeting",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Dynamically display the current day of the week.",
     "main": "dist/daygreeting.js",
     "repository": {
