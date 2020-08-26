@@ -6,7 +6,10 @@
     "author": {
         "name": "INQ Creative"
     },
-    "repository": "inqcreative/daygreeting",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/inqcreative/daygreeting.git",
+    },
     "main": "dist/daygreeting.js",
     "keywords": [
         "javascript",
