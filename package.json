@@ -13,5 +13,8 @@
         "datestamp",
         "date",
         "dynamic date"
-    ]
+    ],
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    }
 }
