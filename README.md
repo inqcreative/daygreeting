@@ -18,6 +18,7 @@ Or
 ```
 
 **NPM:**
+<br>
 `npm install @inqcreative/daygreeting@latest`
 
 2.  Create a text element that will contain the day greeting (eg.  `<p id="daygreeting"></p>`)
