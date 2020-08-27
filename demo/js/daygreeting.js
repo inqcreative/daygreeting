@@ -1,5 +1,5 @@
 /*!
- * Daygreeting v1.0.7
+ * Daygreeting v1.0.8
  * Licensed under MIT, https://opensource.org/licenses/MIT/
  * Please visit https://github.com/inqcreative/daygreeting for details.
  
