@@ -2,7 +2,6 @@
   <h1>📆<br>Daygreeting.js</h1>
   <h3>Dynamically display the current day of the week</h3>
 </div>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a5998591-eda5-46bf-bdfb-0a3157bf5f22/deploy-status)](https://app.netlify.com/sites/daygreeting/deploys)
 
 
 ## Installation
