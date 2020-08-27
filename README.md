@@ -5,9 +5,8 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/inqcreative/daygreeting">
   <img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/inqcreative/daygreeting">
 </div>
-<span>
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a5998591-eda5-46bf-bdfb-0a3157bf5f22/deploy-status)](https://app.netlify.com/sites/daygreeting/deploys)
-</span>
 
 ## Installation
 Adding Daygreeting to your project is remarkably simple:
