@@ -3,7 +3,8 @@
   <h3>Dynamically display the current day of the week</h3>
 </div>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a5998591-eda5-46bf-bdfb-0a3157bf5f22/deploy-status)](https://app.netlify.com/sites/daygreeting/deploys)
+![GitHub](https://img.shields.io/github/license/inqcreative/daygreeting)
+![GitHub file size in bytes](https://img.shields.io/github/size/inqcreative/daygreeting/dist/daygreeting.min.js)
 
 ## Installation
 Adding Daygreeting to your project is remarkably simple:
