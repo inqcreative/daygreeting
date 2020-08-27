@@ -1,4 +1,7 @@
-# daygreeting
+<div align="center">
+  <h1>📆<br>Daygreeting.js</h1>
+  <h3>Dynamically display the current day of the week</h3>
+</div>
 
 ## Installation
 Adding Daygreeting to your project is remarkably simple:
